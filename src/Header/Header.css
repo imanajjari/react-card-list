@@ -1,0 +1,25 @@
+.Header-contaner{
+    padding: 12px;
+}
+.Header{
+    background: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(255, 255, 255));
+    box-shadow: 10px 10px 10px rgba(81, 81, 81, 0.361);
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo-contaner{
+    padding: 12px 20px;
+    font-size: 2rem;
+    font-weight: bold;
+    align-content: center;
+}
+.Header-ul{
+    padding: 0 12px;
+    display: flex;
+    list-style: none;
+}
+.Header-li{
+    padding: 0 12px;
+    font-size: 1.5rem;
+}
